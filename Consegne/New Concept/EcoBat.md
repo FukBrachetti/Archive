@@ -16,3 +16,9 @@
 ### link di riferimento
 
 [Points Clouds - Treshold](https://www.youtube.com/watch?v=E1eIg54clGo)
+
+
+[Robot ad ultrasuoni](https://www.progettiarduino.com/57-arduino-progetto-robot-evita-ostacoli-con-hc-sr04.html)
+
+
+[Fotogrammetria - Zephir](http://www.3d-archeolab.it/2017/05/fotogrammetria-a-costo-zero-con-il-software-zephyr-free/)
