@@ -10,7 +10,7 @@
 
 ### Concept
 
-<p>Tramite il principio dell’ecolocalizzazione vorrei creare un robottino in grado di spostarsi nell’ambiente in cui verrà collocato attraverso l’ausilio di ultrasuoni per evitare gli ostacoli, proprio come fanno i pipistrelli al buio, inoltre posizionare sopra di esso una kinect per scannerizzare l’ambiente attraverso il principioo del “points clouds treshold” utilizzato da Daniel Shiffman nel suo tutorial in grado di visualizzare l’ambiente.
+<p>Tramite il principio dell’ecolocalizzazione vorrei creare un robottino in grado di spostarsi nell’ambiente con l’ausilio di un sesore ad ultrasuoni per evitare gli ostacoli, proprio come fanno i pipistrelli al buio, inoltre posizionare sopra di esso una kinect per scannerizzare l’ambiente attraverso il principioo del “points clouds treshold” utilizzato da Daniel Shiffman nel suo tutorial in grado di visualizzare l’ambiente.
 </p>
 
 ### link di riferimento
